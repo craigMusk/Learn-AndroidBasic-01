@@ -1,0 +1,12 @@
+View
+  UI + eventos
+ViewGroup
+  Contiene Views
+Layout
+  ViewGroup invisible
+_______________________
+FameLayout
+ScrollView
+LinearLayout
+RelativeLayout
+ConstraintLayout
